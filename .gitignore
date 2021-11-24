@@ -34,3 +34,6 @@ xcuserdata/
 *.dSYM
 Pods/
 *.xcworkspace
+*.aux
+*.out
+*.log
